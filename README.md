@@ -41,4 +41,4 @@ End-to-end data analysis on **3,900 retail transactions** to uncover insights on
 ## 👤 About
 
 Aspiring **Data & Business Analyst** · Open to opportunities  
-📧 ssingh19602@gmail.com · [LinkedIn]([https://www.linkedin.com/in/shivendra-singh-233a74210/])
+📧 ssingh19602@gmail.com  · [LinkedIn]([https://www.linkedin.com/in/shivendra-singh-233a74210/])
